@@ -80,9 +80,12 @@ const numberToWords = (number) => {
     return result.trim();
   }
 };
-
+const hello = () => {
+  console.log("hello");
+};
 // Example usage:
 
 module.exports = {
-  cs_num_w: numberToWords,
+  numberToWords,
+  hello
 };
