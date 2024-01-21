@@ -1,0 +1,16 @@
+{
+  "name": "cs-number-to-words",
+  "version": "1.0.0",
+  "description": "Simple Number to words converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "no"
+  },
+  "keywords": [
+    "number",
+    "to",
+    "word"
+  ],
+  "author": "amit kasabe - codeseed",
+  "license": "ISC"
+}
