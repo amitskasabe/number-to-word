@@ -1,6 +1,6 @@
 {
   "name": "cs-number-to-words",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple Number to words converter",
   "main": "index.js",
   "scripts": {
